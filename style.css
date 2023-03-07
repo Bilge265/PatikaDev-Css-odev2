@@ -1,0 +1,78 @@
+.resim{
+    text-align:center;
+    height: 100px;
+}
+
+.kutu1{
+    margin-left: 68px;
+    margin-right: 68px;
+    padding: 0px;
+    display: block;
+    text-align: center;
+   background-color: #EEEEEE;
+}
+
+.input{
+    width: 300px;
+}
+
+.yazi{
+   height: 2px;
+}
+.yazi2{
+    height: 2px;
+    position: relative;
+    top: -5px;
+}
+.link1{
+    position: relative;
+    top: -6px;
+}
+.link2{
+    position: relative;
+    top: -7px;
+}
+
+.kutu2{
+    margin-left: 68px;
+    margin-right: 62%;
+    margin-top: 2px;
+    padding: 3px;
+    display: block;
+    text-align: center;
+   background-color: #7EE5DA;
+   
+}
+
+.kutu3{
+    margin-left: 497px;
+    margin-right: 44%;
+    margin-top: -76px;
+    padding: 6px;
+    display: block;
+    text-align: center;
+    background-color: #70CCC2;
+    font-size: small;
+}
+.kutu4{
+    margin-left: 732px;
+    margin-right: 68px;
+    margin-top: -76px;
+    padding: 2px;
+    display: block;
+    text-align: center;
+    background-color: #62B3AA;
+    font-size: x-small;
+    line-height: 0;
+}
+.input2{
+    width: 100px;
+}
+.text{
+    position: relative;
+    top: -7px;
+}
+.p1{
+    position: relative;
+    top: -3px; 
+}
