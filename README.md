@@ -1,1 +1,1 @@
-# PatikaDev-Css-odev2
+# İlk Google tasarımı
